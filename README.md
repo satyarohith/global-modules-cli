@@ -1,7 +1,7 @@
 global-modules-cli
 ==================
 
-Outputs path of globally installed npm packages.
+Outputs path to globally installed npm packages.
 
 [![Version](https://img.shields.io/npm/v/global-modules-cli.svg)](https://npmjs.org/package/global-modules-cli)
 [![Downloads/week](https://img.shields.io/npm/dw/global-modules-cli.svg)](https://npmjs.org/package/global-modules-cli)
@@ -11,5 +11,5 @@ This package entirely depends on [global-modules](https://github.com/jonschlinke
 
 # Usage
 ```sh
-npx global-modules-cli # Outputs path of globally installed npm packages.
+npx global-modules-cli # Outputs path to globally installed npm packages.
 ```

@@ -1,7 +1,7 @@
 {
   "name": "global-modules-cli",
-  "description": "Outputs path of globally installed npm packages",
-  "version": "0.1.0",
+  "description": "Outputs path to globally installed npm packages",
+  "version": "0.1.1",
   "author": "Satya Rohith",
   "bin": {
     "global-modules-cli": "./cli.js"
