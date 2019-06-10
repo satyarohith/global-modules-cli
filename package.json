@@ -1,0 +1,30 @@
+{
+  "name": "global-modules-cli",
+  "description": "Outputs path of globally installed npm packages",
+  "version": "0.1.0",
+  "author": "Satya Rohith",
+  "bin": {
+    "global-modules-cli": "./cli.js"
+  },
+  "bugs": "https://github.com/satyarohith/global-modules-cli/issues",
+  "dependencies": {
+    "global-modules": "^2.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "./cli.js"
+  ],
+  "homepage": "https://github.com/satyarohith/global-modules-cli",
+  "keywords": [
+    "global-modules",
+    "npm",
+    "path",
+    "npm gobal path"
+  ],
+  "license": "MIT",
+  "main": "cli.js",
+  "repository": "satyarohith/global-modules-cli"
+}
